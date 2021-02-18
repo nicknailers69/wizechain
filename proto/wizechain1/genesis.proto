@@ -1,0 +1,12 @@
+syntax = "proto3";
+package nicknailers69.wizechain1.wizechain1;
+
+// this line is used by starport scaffolding # genesis/proto/import
+
+option go_package = "github.com/nicknailers69/wizechain-1/x/wizechain1/types";
+
+// GenesisState defines the capability module's genesis state.
+message GenesisState {
+    // this line is used by starport scaffolding # genesis/proto/state
+}
+
